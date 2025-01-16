@@ -32,6 +32,8 @@ architecture: x86_64
 ```
 commit: 613caa44371f85e1a461bc030e07ddc2d71afe32
 link: https://gitlab.com/newbit/rootAVD/-/tree/613caa44371f85e1a461bc030e07ddc2d71afe32
+
+command: ./rootAVD.sh system-images/android-31/google_apis/x86_64/ramdisk.img
 ```
 
 ## LSPosed
