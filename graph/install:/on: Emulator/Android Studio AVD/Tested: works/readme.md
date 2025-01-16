@@ -41,3 +41,11 @@ command: ./rootAVD.sh system-images/android-31/google_apis/x86_64/ramdisk.img
 version: 1.9.2 (7024) - Zygisk
 download: https://github.com/LSPosed/LSPosed/releases/tag/v1.9.2
 ```
+install with Magisk!
+
+then: post install step (on Host)
+```
+unzip LSPosed-v1.9.2-7024-zygisk-release.zip
+cd LSPosed-v1.9.2-7024-zygisk-release
+adb install ./manager.apk
+```
