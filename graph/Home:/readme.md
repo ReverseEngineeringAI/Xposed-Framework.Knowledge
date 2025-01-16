@@ -1,6 +1,15 @@
 # Home:
 
 # version:
+## LSPosed_mod
+https://github.com/mywalkb/LSPosed_mod
+
+>Supported Versions:  
+>Android 15
+
+discuss:
+- https://xdaforums.com/t/zygisk-not-work-solved.4668984/
+
 ## LSPosed
 Home: https://lsposed.org/
 
