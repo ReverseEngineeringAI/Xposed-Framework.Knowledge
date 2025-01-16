@@ -42,7 +42,10 @@ version: 1.9.2 (7024) - Zygisk
 download: https://github.com/LSPosed/LSPosed/releases/tag/v1.9.2
 ```
 ### install with Magisk!
-`adb push LSPosed-v1.9.2-7024-zygisk-release.zip /sdcard/Download/`
+```
+adb push LSPosed-v1.9.2-7024-zygisk-release.zip /sdcard/Download/
+# Open in Magisk -> Install Module: navigate to Downloads
+```
 
 then: post install step (on Host)
 ```
